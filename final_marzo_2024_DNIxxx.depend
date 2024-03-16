@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1709256413 source:/home/nykolai/Escritorio/final_marzo_2024_DNIxxx/main.c
+	<stdio.h>
+	<stdlib.h>
+	"jugador.h"
+	"numeros.h"
+
+1709250204 source:/home/nykolai/Escritorio/final_marzo_2024_DNIxxx/numeros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"numeros.h"
+
+1709256636 source:/home/nykolai/Escritorio/final_marzo_2024_DNIxxx/jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+
+1709256553 /home/nykolai/Escritorio/final_marzo_2024_DNIxxx/jugador.h
+	"numeros.h"
+
+1709250110 /home/nykolai/Escritorio/final_marzo_2024_DNIxxx/numeros.h
+
+1651638556 source:c:\users\nico_\desktop\final_marzo_2024_dnixxx\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1707571556 c:\users\nico_\desktop\final_marzo_2024_dnixxx\lista.h
+
+1709673060 source:c:\users\nico_\desktop\final_marzo_2024_dnixxx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"jugador.h"
+	"numeros.h"
+
+1709673098 c:\users\nico_\desktop\final_marzo_2024_dnixxx\jugador.h
+	"numeros.h"
+
+1709673080 c:\users\nico_\desktop\final_marzo_2024_dnixxx\numeros.h
+
+1709673080 source:c:\users\nico_\desktop\final_marzo_2024_dnixxx\numeros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"numeros.h"
+
+1709673098 source:c:\users\nico_\desktop\final_marzo_2024_dnixxx\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+
+1710601273 source:c:\users\casar\desktop\nueva carpeta\final_marzo_2024_dnixxx\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1710598484 c:\users\casar\desktop\nueva carpeta\final_marzo_2024_dnixxx\lista.h
+
+1710602062 source:c:\users\casar\desktop\nueva carpeta\final_marzo_2024_dnixxx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"jugador.h"
+	"numeros.h"
+
+1710597904 c:\users\casar\desktop\nueva carpeta\final_marzo_2024_dnixxx\jugador.h
+	"numeros.h"
+
+1710601234 c:\users\casar\desktop\nueva carpeta\final_marzo_2024_dnixxx\numeros.h
+	"lista.h"
+
+1710604099 source:c:\users\casar\desktop\nueva carpeta\final_marzo_2024_dnixxx\numeros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"numeros.h"
+	"lista.h"
+	<time.h>
+
+1710604371 source:c:\users\casar\desktop\nueva carpeta\final_marzo_2024_dnixxx\jugador.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	"jugador.h"
+	"numeros.h"
+
